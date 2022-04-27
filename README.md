@@ -28,6 +28,11 @@ Libraries used:
 ...to be populated
 
 
+
+<p align="center" width="100%">
+    <img width="33%" src="https://i.pinimg.com/originals/88/0b/b6/880bb6b520c42b194d47cd175ed48fab.jpg"> 
+</p>
+
 ## Acknowledgements
 Data provided by [Udacity](https://udacity.com).
 
