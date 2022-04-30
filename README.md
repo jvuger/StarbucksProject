@@ -44,6 +44,7 @@ After (quite long) data exploration and preprocessing, four models were used to 
     <img width="33%" src="https://i.pinimg.com/originals/88/0b/b6/880bb6b520c42b194d47cd175ed48fab.jpg"> 
 </p>
 
+My blog post with a more detailed discussion can be found [here](https://medium.com/@josip.vuger/starbucks-capstone-challenge-508e9a90caad).
 ## Acknowledgements
 Data provided by [Udacity](https://udacity.com).
 
