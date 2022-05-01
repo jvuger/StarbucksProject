@@ -36,15 +36,15 @@ profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ## Summary of the results
-After (quite long) data exploration and preprocessing, four models were used to predict whether an offer sent to a customer will be successful or not. Metrics used were accuracy, precision, recall and F1 score, appropriate for such classification problem. Models that scored best were logistic regression and random forest, for which metrics in question ranged between 75% and 80%.
+After (quite long) data exploration and preprocessing, four models were used to predict whether an offer sent to a customer will be successful or not. Metrics used were accuracy, precision, recall and F1 score, appropriate for such classification problem. 
+Models used were Logistic Regression, Decision Trees, Random Forest and k-Nearest Neighbors, and results are as follows. Decision Tree and k-Nearest Neighbors are best performers, with accuracy of 81% and 80%, and F1 score of 78% and 77% respectively. 
 
-
+My blog post with a more detailed discussion can be found [here](https://medium.com/@josip.vuger/starbucks-capstone-challenge-508e9a90caad).
 
 <p align="center" width="100%">
     <img width="33%" src="https://i.pinimg.com/originals/88/0b/b6/880bb6b520c42b194d47cd175ed48fab.jpg"> 
 </p>
 
-My blog post with a more detailed discussion can be found [here](https://medium.com/@josip.vuger/starbucks-capstone-challenge-508e9a90caad).
 ## Acknowledgements
 Data provided by [Udacity](https://udacity.com).
 
