@@ -54,3 +54,5 @@ https://matplotlib.org/stable/tutorials/introductory/lifecycle.html#sphx-glr-tut
 
 https://medium.com/swlh/how-to-code-and-evaluate-of-decision-trees-2d94093b3c1a
 
+https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/
+
