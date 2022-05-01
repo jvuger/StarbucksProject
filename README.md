@@ -25,6 +25,7 @@ Libraries used:
 * seaborn
 * sklearn
 * itertools
+* time
 
 ## Files
 The data is contained in three files:
