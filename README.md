@@ -37,9 +37,10 @@ profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ## Summary of the results
-All models seem to be quite close in observed metrics. Decision Tree and k-Nearest Neighbors are best performers. Logistic regression has even slightly higher precision than the winner, so in this case not one single model is (far) superior to all others.
+In this project, I tried to predict whether an offer sent to a user would be successful or not (i.e. will it be used/actioned upon or not). Models that I used were Logistic Regression, Decision Tree, Random Forest, k-Nearest Neighbors. 
+As it turns out, all models were quite close in observed metrics. Decision Tree and k-Nearest Neighbors are best performers. Logistic regression has even slightly higher precision than the winner, so in this case not one single model is (far) superior to all others.
 
-My blog post with a more detailed discussion can be found [here](https://medium.com/@josip.vuger/starbucks-capstone-challenge-508e9a90caad).
+Article with a more detailed discussion can be found [here](https://medium.com/@josip.vuger/starbucks-capstone-challenge-508e9a90caad).
 
 <p align="center" width="100%">
     <img width="33%" src="https://i.pinimg.com/originals/88/0b/b6/880bb6b520c42b194d47cd175ed48fab.jpg"> 
