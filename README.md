@@ -57,3 +57,4 @@ https://medium.com/swlh/how-to-code-and-evaluate-of-decision-trees-2d94093b3c1a
 
 https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/
 
+https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
